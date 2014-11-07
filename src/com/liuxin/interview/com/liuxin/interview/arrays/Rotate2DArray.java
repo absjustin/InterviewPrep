@@ -1,7 +1,9 @@
-package com.liuxin.interview;
+package com.liuxin.interview.com.liuxin.interview.arrays;
 
 /**
  * Created by Xin on 11/6/2014.
+ *
+ * Problem: Rotate a 2D array clockwise by 90 degrees
  */
 public class Rotate2DArray {
 
