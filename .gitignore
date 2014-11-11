@@ -41,3 +41,25 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+.idea/modules.xml
+.idea/.name
+.idea/compiler.xml
+.idea/copyright/profiles_settings.xml
+.idea/encodings.xml
+.idea/misc.xml
+.idea/scopes/scope_settings.xml
+.idea/uiDesigner.xml
+.idea/uiDesigner.xml
+.idea/uiDesigner.xml
+*.xml
+InterviewPrep.iml
+out/production/InterviewPrep/com/liuxin/interview/Rotate2DArray.class
+.idea/uiDesigner.xml
+.idea/uiDesigner.xml
+/bin/
+
+*.log
+.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache
+*.dat
+*.prefs
